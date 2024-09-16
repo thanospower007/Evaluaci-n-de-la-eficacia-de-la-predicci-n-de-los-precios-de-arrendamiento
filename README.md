@@ -1,0 +1,1 @@
+este es el código que se uso para hacer el articulo "Evaluación de la eficacia de la predicción de los precios de arrendamiento en la ciudad de Medellín del año 2019 modelado a través de una red neuronal multicapa con dos funciones de activación (PReLu, LeakyReLu)"
